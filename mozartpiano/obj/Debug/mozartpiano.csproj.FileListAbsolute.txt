@@ -1,0 +1,7 @@
+C:\Users\zbcdasp\source\repos\mozartpiano\bin\Debug\mozartpiano.exe.config
+C:\Users\zbcdasp\source\repos\mozartpiano\bin\Debug\mozartpiano.exe
+C:\Users\zbcdasp\source\repos\mozartpiano\bin\Debug\mozartpiano.pdb
+C:\Users\zbcdasp\source\repos\mozartpiano\obj\Debug\mozartpiano.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\mozartpiano\obj\Debug\mozartpiano.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\mozartpiano\obj\Debug\mozartpiano.exe
+C:\Users\zbcdasp\source\repos\mozartpiano\obj\Debug\mozartpiano.pdb
